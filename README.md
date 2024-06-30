@@ -105,21 +105,7 @@ const MIN: u8= 1;
 const MAX: u8 = 100;
 ```
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
-
-### Guidelines
-
-- Follow Rust coding conventions.
-- Write clear and concise commit messages.
-- Ensure the code builds and passes all tests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
+# Acknowledgments
 
 - [The Rust Programming Language](https://www.rust-lang.org/)
 - [Rust Guessing Game Tutorial](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
