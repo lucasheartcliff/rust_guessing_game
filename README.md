@@ -101,8 +101,8 @@ cargo test
 You can modify the range of numbers by editing the constants in the `main.rs` file.
 
 ```rust
-const MIN: u32 = 1;
-const MAX: u32 = 100;
+const MIN: u8= 1;
+const MAX: u8 = 100;
 ```
 
 ## Contributing
